@@ -1,0 +1,37 @@
+
+body{
+    text-align: center;
+}
+
+.input-bar{
+    margin: 10px;
+    margin-bottom: 20px;
+}
+.task-input{
+    height: 20px;
+    width: 250px;
+}
+.add-task-button{
+    height: 26px;
+}
+.task-list{
+    margin: 0px 100px;
+    padding: 5px;
+    border-radius: 5px;
+    height: 22px;
+    position: relative;
+}
+.task-list >.task-name{
+    position: absolute;
+    left: 40px;
+}
+.task-list>.task-delete-button{
+    position: absolute;
+    right: 20px;
+}
+.add-list>:nth-child(odd){
+    background-color: antiquewhite;
+}
+.add-list>:nth-child(even){
+    background-color: aliceblue;
+}
