@@ -1,0 +1,2 @@
+.App{display:flex;flex-direction:column}.App,body{text-align:center}.input-bar{margin:10px 10px 20px}.task-input{height:20px;width:250px}.add-task-button{height:26px}.task-list{border-radius:5px;height:22px;margin:0 100px;padding:5px;position:relative}.task-list>.task-name{left:40px;position:absolute}.task-list>.task-delete-button{position:absolute;right:20px}.add-list>:nth-child(odd){background-color:#faebd7}.add-list>:nth-child(2n){background-color:#f0f8ff}
+/*# sourceMappingURL=main.2cc1371d.css.map*/
